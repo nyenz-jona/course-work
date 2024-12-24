@@ -23,6 +23,10 @@ int main(){
 
     if(profit<0){
         printf("You made a loss of %0.2lf\n",profit);
+
+        if (profit>0){
+            printf("You made a profit of %0.2lf\n,profit);
+                
     }
 
 
